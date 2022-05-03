@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms, Debian Linux, Instagram Marketing, Web development**
 
-- 📫 How to reach me **navdeepgambhir9023@gmail.com**
+- 📫 You can mail me @ **navdeepgambhir9023@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
