@@ -11,6 +11,7 @@
 
 - 📫 My email navdeepgambhir9023@gmail.com
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/navdeep9023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="navdeep9023" height="30" width="40" /></a>
