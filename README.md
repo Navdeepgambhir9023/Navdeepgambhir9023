@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navdeep Singh Gambhir</h1>
 <h3 align="center">I have a huge interest in penetration testing and frontend development</h3>
 
-- 🔭 I’m currently working on a website **The Serious Psychology**
+- 🔭 I’m currently working on a website **The Serious Psychology** (https://navdeepgambhir9023.github.io/theseriouspsychology/)
 
 - 🌱 I’m currently learning **Solidity, Data structures, Java**
 
