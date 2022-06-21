@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Navdeepgambhir9023](https://github.com/Navdeepgambhir9023)
 
+- All of my gists are available at. https://gist.github.com/Navdeepgambhir9023
+
 - 💬 Ask me about **Data Structures and Algorithms, Debian Linux, Instagram Marketing, Web development**
 
 - 📫 My email navdeepgambhir9023@gmail.com
