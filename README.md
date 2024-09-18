@@ -1,43 +1,44 @@
-<h1 align="center">Hi 👋, I'm Navdeep Singh Gambhir</h1>
-<h3 align="center">Full Stack Developer with a passion for Frontend Development and Generative AI</h3>
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<h1 align="center">Hi 👋, I'm Navdeep Singh</h1>
+<h3 align="center">A passionate Full Stack developer from India 🇮🇳 </h3>
+<img align="right"  alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
 
-- 🔭 I’m currently working on **Interview AI** (https://github.com/Navdeepgambhir9023/Interview-AI), an AI platform to prepare for interviews using LangChain and Claude.
+<p align="left"> <a href="https://twitter.com/navdeep9023" target="blank"><img src="https://img.shields.io/twitter/follow/navdeep9023?logo=twitter&style=for-the-badge" alt="Navdeep Singh" /></a> </p>
 
-- 🌱 I’m currently learning **LangChain, Data Structures**
+- 🔭 I’m currently learning **Typescript & Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Navdeepgambhir9023](https://github.com/Navdeepgambhir9023)
+- 🔭 I’m currently Looking for **Remote SDE Roles**
 
-- 🏆 All of my gists are available at [https://gist.github.com/Navdeepgambhir9023](https://gist.github.com/Navdeepgambhir9023)
-
-- 💬 Ask me about **LangChain, Frontend Development, React.js, UI/UX, Generative AI, Data Structures and Algorithms, Web Development**
+- 💬 Ask me about **MERN, JavaScript, C++, DSA**
 
 - 📫 How to reach me **navdeepgambhir9023@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+- 📄 Know about my experiences []()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/navdeepgambhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navdeepgambhir" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19021413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19021413" height="30" width="40" /></a>
-<a href="https://twitter.com/navdeep9023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navdeep9023" height="30" width="40" /></a>
-<a href="https://instagram.com/navdeep_gambhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navdeep_gambhir" height="30" width="40" /></a>
-<a href="https://codepen.io/navdeep9023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="navdeep9023" height="30" width="40" /></a>
+<a href="https://twitter.com/navdeep9023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivekpanchaal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/navdeepgambhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek panchal" height="30" width="40" /></a>
+<a href="https://instagram.com/navdeep.gambhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivekpaanchal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/navdeepgambhir9023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivekpanchal" height="30" width="40" /></a>
 </p>
+<br>
+<div id="badges">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+## 🛠️ Languages and Tools :
+<p>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,html,css,tailwind,scss,cpp,kotlin,firebase,git,github"/>
+  </a>
 </p>
+</div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/navdeepsingh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="navdeepsingh" /></a></p><br><br>
+<br>
+
+## 📈 GitHub Stats
+<div style="display: flex;">
+    <div style="margin-right: 10px;">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navdeepgambhir9023&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;"><br> <br>
+    </div>
+</div>
+<br>
