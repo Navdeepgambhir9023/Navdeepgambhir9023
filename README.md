@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/navdeep9023" target="blank"><img src="https://img.shields.io/twitter/follow/navdeep9023?logo=twitter&style=for-the-badge" alt="Navdeep Singh" /></a> </p>
 
-- 🔭 I’m currently learning **Typescript & Nextjs**
+- 🔭 I’m currently learning **Generative AI Development**
 
 - 🔭 I’m currently Looking for **Remote SDE Roles**
 
-- 💬 Ask me about **MERN, JavaScript, C++, DSA**
+- 💬 Ask me about **MERN, Langchain, Generative AI, DSA**
 
 - 📫 How to reach me **navdeepgambhir9023@gmail.com**
 
