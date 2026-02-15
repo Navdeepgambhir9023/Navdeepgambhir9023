@@ -189,9 +189,3 @@ I'm always down to talk about whatever I'm building or whatever you're building.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:navdeepgambhir9023@gmail.com)
 
 </div>
-
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=navdeepgambhir9023&style=flat-square&color=blue" alt="Profile Views" />
-</div>
