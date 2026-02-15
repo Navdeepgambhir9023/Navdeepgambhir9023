@@ -17,11 +17,11 @@
 
 ### About Me
 
-I'm an engineer who likes to build things end to end — from the idea to deployment. Currently working as **Software Engineer @ TalentPulse360**, where I own the full technical stack across multiple products: AI pipelines, frontend, backend, infrastructure, and everything in between.
+I'm an engineer who likes to build things end to end from the idea to deployment. Currently working as **Software Engineer @ TalentPulse360**, where I own the full technical stack across multiple products: AI pipelines, frontend, backend, infrastructure, and everything in between.
 
-I'm always picking up new domains and building in them. Right now that includes **AI voice systems**, **automated lead generation**, **LLM-powered agents**, and **HR tech platforms**. I don't specialize in one thing — I just go deep on whatever I'm building at the moment.
+I'm always picking up new domains and building in them. Right now that includes **AI voice systems**, **automated lead generation**, **LLM-powered agents**, and **HR tech platforms**. I don't specialize in one thing I just go deep on whatever I'm building at the moment.
 
-**96 repositories** · Shipping code since 2021 · Based in India 🇮🇳
+**Shipping code since 2021** · Based in India 🇮🇳
 
 ---
 
@@ -31,7 +31,7 @@ I'm always picking up new domains and building in them. Right now that includes 
 <tr>
 <td width="33%">
 
-**🔥 LeadFlow — AI SDR Platform**
+**🔥 LeadFlow AI SDR Platform**
 [**freeleads.app**](https://freeleads.app) · *Live in Production*
 
 Automated lead generation & outreach platform. Find leads, qualify them with AI, and send personalized outreach at scale.
@@ -48,7 +48,7 @@ Automated lead generation & outreach platform. Find leads, qualify them with AI,
 </td>
 <td width="33%">
 
-**🎙️ VoiceForge — Real-Time AI Voice Platform**
+**🎙️ VoiceForge Real-Time AI Voice Platform**
 
 A self-hosted, modular platform for real-time AI phone conversations. LLM-powered agents that listen, reason, and speak over PSTN.
 
@@ -56,7 +56,7 @@ A self-hosted, modular platform for real-time AI phone conversations. LLM-powere
 - LLM reasoning + tool invocation (Groq / Llama 3.3)
 - Barge-in interruption & echo gating
 - Turn governor for natural pacing
-- Provider-agnostic — swap any STT/TTS/SIP/LLM
+- Provider-agnostic swap any STT/TTS/SIP/LLM
 - Browser Voice Simulator for dev testing
 
 `TypeScript` `Python` `FastAPI` `WebSocket` `SIP` `Docker`
@@ -64,11 +64,11 @@ A self-hosted, modular platform for real-time AI phone conversations. LLM-powere
 </td>
 <td width="33%">
 
-**💼 TalentPulse360 — AI HR Tech Platform**
+**💼 TalentPulse360 AI HR Tech Platform**
 
 End-to-end recruiting & talent management with AI-driven workflows. Multiple sub-products under one umbrella.
 
-- Centralized talent portal ([centralized.talentpulse360.com](https://centralized.talentpulse360.com))
+- Recruitment portal ([recruit.talentpulse360.com](https://recruit.talentpulse360.com))
 - Job board platform ([jobs.talentpulse360.com](https://jobs.talentpulse360.com))
 - AI job matching & ranking (LangGraph)
 - JD parsing & candidate elimination pipelines
@@ -148,16 +148,14 @@ End-to-end recruiting & talent management with AI-driven workflows. Multiple sub
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| **[LeadFlow](https://freeleads.app)** | AI SDR — automated lead gen, qualification & outreach at scale | Next.js, Supabase, Prisma, BigQuery, Gemini |
+| **[LeadFlow](https://freeleads.app)** | AI SDR automated lead gen, qualification & outreach at scale | Next.js, Supabase, Prisma, BigQuery, Gemini |
 | **VoiceForge** | Real-time AI voice conversations over phone lines | TypeScript, Python, FastAPI, WebSocket, Docker |
-| **TalentPulse360** | AI-powered HR/recruiting platform — multiple sub-products | Next.js, Node.js, Python, LangGraph, PostgreSQL |
+| **[Talentpulse360](https://talentpulse360.com)** | AI-powered HR/recruiting platform multiple sub-products | Next.js, Node.js, Python, LangGraph, PostgreSQL |
 | **JD Eliminator** | AI agent that parses & ranks job descriptions automatically | Python, LangChain, LangGraph |
-| **Interview AI** | AI interview prep & coaching tool | JavaScript, LangChain |
-| **Artifex** | Creative project | — |
-| **Trafficy** | Traffic/analytics project | — |
+| **Crackd** | AI interview prep & coaching tool | React, Express, LangChain |
+| **Trafficy** | Traffic/analytics mobile application | React Native, Express.js, Websockets |
 | **Translation Tool** | Multi-language translation with LangChain + Ollama | React, Express, Ollama |
 | **Academic Parser Agent** | AI agent for parsing & extracting academic data | Python |
-| **Ranking & Matching** | LangGraph-based ranking system for candidate-job matching | Python, LangGraph |
 
 ---
 
@@ -180,7 +178,7 @@ End-to-end recruiting & talent management with AI-driven workflows. Multiple sub
 
 ### 📬 Reach Out
 
-I'm always down to talk about whatever I'm building — or whatever you're building.
+I'm always down to talk about whatever I'm building or whatever you're building.
 
 <div align="center">
 
