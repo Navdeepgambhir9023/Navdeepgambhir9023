@@ -17,7 +17,7 @@
 
 ### About Me
 
-I'm an engineer who likes to build things end to end — from the idea to deployment. Currently working as **Lead Engineer @ TalentPulse360**, where I own the full technical stack across multiple products: AI pipelines, frontend, backend, infrastructure, and everything in between.
+I'm an engineer who likes to build things end to end — from the idea to deployment. Currently working as **Software Engineer @ TalentPulse360**, where I own the full technical stack across multiple products: AI pipelines, frontend, backend, infrastructure, and everything in between.
 
 I'm always picking up new domains and building in them. Right now that includes **AI voice systems**, **automated lead generation**, **LLM-powered agents**, and **HR tech platforms**. I don't specialize in one thing — I just go deep on whatever I'm building at the moment.
 
