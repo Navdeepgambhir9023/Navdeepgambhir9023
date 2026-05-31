@@ -162,7 +162,7 @@ End-to-end recruiting & talent management with AI-driven workflows. Multiple sub
 ### 📊 GitHub Analytics
 
 <div align="center">
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=navdeepgambhir9023&theme=github-dark-blue&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=navdeepgambhir9023&theme=github-dark-blue&hide_border=truehttps://github-readme-streak-stats.herokuapp.com/?user=navdeepgambhir9023&theme=github-dark-blue&hide_border=true)" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=navdeepgambhir9023&theme=github-dark-blue&hide_border=true" />
 </div>
 
 <div align="center">
