@@ -162,11 +162,6 @@ End-to-end recruiting & talent management with AI-driven workflows. Multiple sub
 ### 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=navdeepgambhir9023&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navdeepgambhir9023&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=navdeepgambhir9023&theme=github-dark-blue&hide_border=true" />
 </div>
 
